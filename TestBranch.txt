@@ -1,0 +1,14 @@
+File for test brnach and not live main branch
+
+Testing for PR. modified file on browser n now create pr on vscode
+ok\
+
+good that pr is successfull, can u try again for practice?
+
+cool so source code is for push n pr is for fetch action?
+
+yes my love u get it correct
+
+now try 2 commits pr. this is 1.
+
+this is 2.
